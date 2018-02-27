@@ -1,9 +1,11 @@
 # Yellowid-Flask
 
-[![Build Status](https://travis-ci.org/JungWinter/yellowid-flask.svg?branch=master)](https://travis-ci.org/JungWinter/yellowid-flask)
-[![codecov](https://codecov.io/gh/JungWinter/yellowid-flask/branch/master/graph/badge.svg)](https://codecov.io/gh/JungWinter/yellowid-flask)
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 
-Skeleton of Kakaotalk Yellowid by Python Flask
+[Unmaintained] Skeleton of Kakaotalk bot using python flask
+
+## 이 프로젝트는 더 이상 유지보수 되지 않습니다.
+**대신 [chatterbox](https://github.com/jungwinter/chatterbox)를 사용해주세요.**
 
 ## 1. 소개
 [카카오톡 옐로아이디 자동응답 API Specification](https://github.com/plusfriend/auto_reply)을 충족시키는 파이썬 구현체입니다.  
